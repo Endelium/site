@@ -1,6 +1,6 @@
-# JoshQuinlan.co.uk
+# Endelium.com
 
-This is the repo for my personal website, which is built using [Hugo](https://gohugo.io/) and the [Congo](https://jpanther.github.io/congo/) theme.
+This is the repo for the Endelium website, which is built using [Hugo](https://gohugo.io/) and the [Congo](https://jpanther.github.io/congo/) theme.
 
 ## Developing locally
 

@@ -18,7 +18,7 @@ Before we can start preparing all the assets for your release and submit it to t
 
 Click the button below to fill out our **New Release Information Request** (NRIR) form.
 
-{{< button href="https://quin.gg/endelnrir" target="_blank" >}}
+{{< button href="https://athena.quinlan.cloud/apps/forms/s/giZHawWXEgssdJDWLB3GySHc" target="_blank" >}}
 Submit NRIR
 {{< /button >}}
 

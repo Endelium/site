@@ -13,3 +13,5 @@ slug: "clients"
 Want to distribute a new release with us? Let us guide you through the full process so we can make this happen!
 
 [Asset Requirements](/clients/asset-requirements)<br>
+
+[Physical Artwork Requirements](/clients/physical-artwork-requirements)<br>

@@ -36,11 +36,17 @@ Please prepare your artwork using the templates that we provide.
 Photoshop Templates
 {{< /button >}}
 
+{{< button href="https://athena.quinlan.cloud/s/FSH2cAHx6HnxMF7" target="_blank" >}}
+PDF Templates
+{{< /button >}}
+
 The following will aid you in providing artwork to us correctly:
 
 * The document size of our supplied templates must not be altered in any way
 * Please drop your artwork onto our template, and not the other way around
 * The template itself must not be modified in any way, and a high resolution PDF should be output
+
+If you are unsure about anything, please contact us, or consider contracting an experienced physical artwork designer.
 
 ## Overprint vs Knockout
 

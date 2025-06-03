@@ -14,75 +14,16 @@ For clients utilising our Duplication & Replication services, the requirements a
 
 # Artwork Guidelines
 
-## Colour
+You can find detailed spec sheets / templates for all product types at the link below:
 
-Artwork supplied to us should be in CMYK, Greyscale, or use Pantone Colours. We will not accept artwork in any other colour mode.
-
-Please be aware of the amount of ink your artwork holds when trying to achieve dark colours / designs. If your CMYK artwork contains elements that use 90% Cyan, Magenta, Yellow & Black, far too much ink will be applied and there may be drying / saturation issues on press. Therefore, we ask that any elements of your artwork must not contain more than 300% total coverage of the CMYK plates.
-
-## Quality & Resolution
-
-Artwork supplied should hold a minimum resolution of 300dpi - any lower may result in pixilation and/or reduction in image quality.
-
-All text supplied on artwork should ideally be in vector form.
-
-It is therefore recommended that artwork is designed in packages that support vector graphics like Illustrator or InDesign, rather than using raster-based software like Photoshop.
-
-## Templates
-
-Please prepare your artwork using the templates that we provide.
-
-{{< button href="https://athena.quinlan.cloud/s/C4LWkmYqn7773k5" target="_blank" >}}
-Photoshop Templates
+{{< button href="https://athena.quinlan.cloud/s/W4jHL3BnCNaKD7F" target="_blank" >}}
+Download Templates
 {{< /button >}}
 
-{{< button href="https://athena.quinlan.cloud/s/FSH2cAHx6HnxMF7" target="_blank" >}}
-PDF Templates
-{{< /button >}}
+All of our spec sheets are sized accurately so if you're using software such as Adobe Photoshop or Illustrator you just need to place our PDF onto one layer and then design your artwork on the layer above.
 
-The following will aid you in providing artwork to us correctly:
+If you need our help please get in touch. We have a dedicated artwork team that are happy to advise and help wherever possible.
 
-* The document size of our supplied templates must not be altered in any way
-* Please drop your artwork onto our template, and not the other way around
-* The template itself must not be modified in any way, and a high resolution PDF should be output
+If your artwork has already been designed using someone else's template or spec sheet don't worry. Send it over to us to check, there's every chance we'll be able to use it.
 
-If you are unsure about anything, please contact us, or consider contracting an experienced physical artwork designer.
-
-## Overprint vs Knockout
-
-Those that use Photoshop for all their artwork may ignore this section, as it will not apply.
-
-If using Illustrator or InDesign:
-
-**Overprint**: The only time overprint should come in to effect is when you overprint black text onto a lighter background; this ensures there are no registration or 'fit' issues. If your text/image is overprinting a lighter shade onto a darker shade, this text/image may not be visible when printed.
-
-**Knockout**: This does the opposite to overprint. It knocks elements through the ink beneath it and prints onto the paper. Therefore white text knocking out to a black background will knock through and show the white of the paper/card, therefore making the text perfectly visible.
-
-*A good way to check if any of your artwork is 'overprinting' or 'knocking out', once
-you have made a PDF, is to open it in Acrobat Professional and use the 'Overprint
-Preview' feature under the Advanced tab*.
-
-## Booklets
-
-Please supply booklet artwork (unless instructed otherwise) in 'printers pairs', i.e.
-
-* 12 & 1
-* 2 & 11
-* 10 & 7
-* 8 & 9
-* 6 & 7
-
-Odd numbered pages sit on the right. If you use this rule, you can apply it to any sized booklet. Please also be aware that the centre pages should be the last pages on your document.
-
-## CD Onbodies
-
-Please ensure your onbody artwork does not include a centre hole or stacking ring. We
-will grid this artwork accordingly.
-
-## Fonts
-
-If the situation arises where you will need to supply us with source files, we will require all fonts that you have used, too.
-
-If 'TrueType' fonts (TTFs) are used, they generally come in two parts: a printer file and a screen file. In order for us to use your fonts successfully, we will require you to supply both of these elements. Failure to supply one part of the font can result in font corruption/bitmapping, or complete font replacement to something standard such as Courier.
-
-Please also ensure that you embed any fonts into your document when supplying PDF files.
+Remember, for best results when printing your files should be 300dpi and CMYK. Once ready we can accept most standard file types but usually we work with Press Quality PDF files. Again, if you have something else we're happy to take a look.

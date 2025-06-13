@@ -12,7 +12,7 @@ The quality of all releases distributed through Endelium is of the utmost import
 
 Should you have any questions about these or anything else, please speak with your Account Manager or [contact us](/contact) and we'd be glad to help.
 
-If you are looking for our Physical Asset Requirements, please click (here)[/clients/physical-asset-requirements].
+If you are looking for our Physical Asset Requirements, please click [here](/clients/physical-asset-requirements).
 
 
 ## Audio Files

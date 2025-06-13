@@ -12,7 +12,7 @@ We have partnered with a CD Duplication & Replication Services provider to offer
 
 For clients utilising our Duplication & Replication services, the requirements are below.
 
-If you are looking for our Digital Asset Requirements, please click (here)[/clients/digital-asset-requirements].
+If you are looking for our Digital Asset Requirements, please click [here](/clients/digital-asset-requirements).
 
 # Audio Files
 
@@ -26,7 +26,7 @@ Additionally, we require that audio masters are provided for each track. These s
 |Bit Depth|16-bit|
 |Sample Rate|44.1 kHz **only**|
 
-_Note that these are different to the requirements for digital distribution, which can be found (here)[/clients/digital-asset-requirements].
+Note that these are different to the requirements for digital distribution, which can be found [here](/clients/digital-asset-requirements).
 
 # Artwork
 

@@ -18,7 +18,7 @@ Before we can start preparing all the assets for your release and submit it to t
 
 Click the button below to fill out our **New Release Information Request** (NRIR) form.
 
-{{< button href="https://athena.quinlan.cloud/apps/forms/s/giZHawWXEgssdJDWLB3GySHc" target="_blank" >}}
+{{< button href="https://vault.endelium.com/apps/forms/s/giZHawWXEgssdJDWLB3GySHc" target="_blank" >}}
 Submit NRIR
 {{< /button >}}
 
@@ -36,13 +36,21 @@ At this point, you will need to send us the assets for your release. This includ
 * artwork
 * metadata
 
-Please ensure that all assets are formed according to our [Asset Requirements](/clients/asset-requirements). Failure to meet our asset requirements may result in delays in distributing your release.
+Please ensure that all assets are formed according to our [Digital Asset Requirements](/clients/digital-asset-requirements). Failure to meet our asset requirements may result in delays in distributing your release.
 
-You can send us your assets via a service like [WeTransfer](https://wetransfer.com/), or just send us a link to a folder in cloud storage (e.g. Google Drive or Dropbox). Your Account Manager will confirm the submission process with you.
+If we are doing a physical run of your release, we will also require:
+
+* DDP image
+* artwork
+* booklet
+
+Assets for physical releases must be formatted according to our [Physical Asset Requirements](/clients/physical-asset-requirements).
+
+You can send us your assets via a service like [WeTransfer](https://wetransfer.com/), or through your preferred cloud storage provider (e.g. Google Drive or Dropbox). We also operate an SFTP service. Your Account Manager will confirm the submission process with you.
 
 ## 4. Get ready for release day
 
-Once we've received your assets, we can submit the release to the DSPs! 
+Once we've received your assets, we can submit your release to the DSPs! 
 
 All you need to do now is wait for release day...
 

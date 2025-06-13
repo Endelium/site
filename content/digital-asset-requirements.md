@@ -1,16 +1,19 @@
 ---
-title: "Asset Requirements"
+title: "Digital Asset Requirements"
 date: 2024-09-06
-lastmod: 2025-01-27
+lastmod: 2025-06-13
 draft: false
-slug: "clients/asset-requirements"
+slug: "clients/digital-asset-requirements"
 showTableOfContents: true
 
 ---
 
 The quality of all releases distributed through Endelium is of the utmost importance to us. In order to maintain our high standards and comply with Digital Service Provider requirements, we have devised the following Asset Requirements with which all releases must comply.
 
-If you have any questions about these or anything else, please speak with your Account Manager or [contact us](/contact) and we'd be glad to help.
+Should you have any questions about these or anything else, please speak with your Account Manager or [contact us](/contact) and we'd be glad to help.
+
+If you are looking for our Physical Asset Requirements, please click (here)[/clients/physical-asset-requirements].
+
 
 ## Audio Files
 
@@ -20,6 +23,8 @@ If you have any questions about these or anything else, please speak with your A
 | Bit Depth | 16-bit or 24-bit (24-bit preferred) |
 | Sample Rate | 44.1 kHz to 192 kHz (96 kHz and above preferred)
 | LUFs | Between -12 and -14 LUFS TP recommended |
+
+Please inform us if your Mastering Engineer is on Apple's Certified Mastering Studio (MFiT) list.
 
 ## Artwork
 

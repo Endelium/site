@@ -14,7 +14,7 @@ For clients utilising our Duplication & Replication services, the requirements a
 
 If you are looking for our Digital Asset Requirements, please click [here](/clients/digital-asset-requirements).
 
-# Audio Files
+## Audio Files
 
 Wherever possible, a DDP image should be provided for your release, as this will be required when sending it off to the replication centre. If you do not have one available, then our team can produce one for you.
 
@@ -28,7 +28,7 @@ Additionally, we require that audio masters are provided for each track. These s
 
 Note that these are different to the requirements for digital distribution, which can be found [here](/clients/digital-asset-requirements).
 
-# Artwork
+## Artwork
 
 You can find detailed spec sheets / templates for all product types at the link below:
 
